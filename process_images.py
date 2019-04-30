@@ -1,3 +1,6 @@
+"""Copyright: (c) 2019 by Murat Can Cobanoglu
+MIT License. See LICENSE file for more details."""
+
 import sys, os
 import re
 import multiprocessing as mp
