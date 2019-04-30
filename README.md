@@ -25,4 +25,4 @@ Example:
 ```xy01z001c1.tif```
 
 
-When running the usage example with the example image names, ```c1``` gets mapped to the name ```Nuc```, ```c2``` gets mapped to ```Apop```, and ```c3``` to ```EtHd```.  The results files will be formatted appropriately. 
+When running the usage example with the example image names, ```c1``` gets mapped to the name ```Nuc```, ```c2``` gets mapped to ```Apop```, and ```c3``` to ```EtHd```.  The result files will be formatted appropriately. 
