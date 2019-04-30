@@ -2,7 +2,7 @@
 
 ### FunctiOnal, physiologically Relevant Therapeutic Evaluation
 
-The software is intended to count pixels in multiple z-stacks of images. 
+The software is intended to count pixels in multiple z-stacks of images. It is the companion analysis software for the high-content assay described in: https://www.biorxiv.org/content/10.1101/312504v3
 
 
 Usage:
@@ -26,3 +26,4 @@ Example:
 
 
 When running the usage example with the example image names, ```c1``` gets mapped to the name ```Nuc```, ```c2``` gets mapped to ```Apop```, and ```c3``` to ```EtHd```.  The result files will be formatted appropriately. 
+
