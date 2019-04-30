@@ -4,6 +4,7 @@
 
 The software is intended to count pixels in multiple z-stacks of images. 
 
+
 Usage:
 
 ```python process_images.py <FOLDER> <OUTPUT_FOLDER> <CHN1> <CHN2>...```
@@ -14,6 +15,7 @@ Example:
 
 ```python process_images.py DMSO output Nuc Apop EtHd```
 
+
 Inside the folder, the images should be organized as: 
 
 ```xy<XY_COORD>z<Z_COORD>c<CHANNEL_ID>.tif```
@@ -21,3 +23,6 @@ Inside the folder, the images should be organized as:
 Example:
 
 ```xy01z001c1.tif```
+
+
+When running the usage example with the example image names, ```c1``` gets mapped to the name ```Nuc```, ```c2``` gets mapped to ```Apop```, and ```c3``` to ```EtHd```.  The results files will be formatted appropriately. 
