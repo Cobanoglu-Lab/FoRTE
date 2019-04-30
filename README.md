@@ -1,0 +1,1 @@
+The software is intended to count pixels in multiple z-stacks of images. 
