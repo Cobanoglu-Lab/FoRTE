@@ -14,7 +14,7 @@ from skimage import measure, io, color, data, img_as_float
 from skimage.filters import try_all_threshold
 from skimage.filters import gaussian, threshold_yen
 
-NUM_CPU = 32
+NUM_CPU = mp.cpu_count()
 PLOT_IMG = True
 
 def illum_filter(img,gauss_sigma=100):
