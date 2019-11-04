@@ -2,8 +2,7 @@
 
 ### FunctiOnal, physiologically Relevant Therapeutic Evaluation
 
-The software is intended to count pixels in multiple z-stacks of images. It is the companion analysis software for the high-content assay described in: https://www.biorxiv.org/content/10.1101/312504v3
-
+The software is intended to count pixels in multiple z-stacks of images. It is the companion analysis software for the high-content assay described in [Murali et al., *BMC Cancer*, 2019](https://bmccancer.biomedcentral.com/articles/10.1186/s12885-019-5694-1), previously made available as a [preprint](https://www.biorxiv.org/content/10.1101/312504v3). 
 
 Usage:
 
